@@ -4,7 +4,7 @@
 ### **AI & Agentic Systems Engineer**
 
 <p align="center">
-  <a href="https://agile-mauve-8p7v0p2.tmp.now/"><img src="https://img.shields.io/badge/🌐_Live_3D_Portfolio-agile--mauve--8p7v0p2.tmp.now-10b981?style=for-the-badge&logoColor=white" alt="Live Portfolio" /></a>
+  <a href="https://sachin-dev001.github.io/ai-portfolio/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-sachin--dev001.github.io/ai--portfolio-10b981?style=for-the-badge&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://github.com/Sachin-dev001/ai-engineer-ats-resume/raw/main/Sachin_Sharma_AI_Engineer_Resume.pdf"><img src="https://img.shields.io/badge/📄_ATS_Resume-Download_PDF-ffffff?style=for-the-badge&logoColor=black" alt="ATS Resume" /></a>
   <a href="https://linkedin.com/in/sachin-sharma-659ab53b6"><img src="https://img.shields.io/badge/LinkedIn-Sachin_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:Sachin.Sharma.37919@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -79,38 +79,24 @@ Specialized **AI & Agentic Systems Engineer** focused on bridging the gap betwee
 | **Time-To-First-Token (TTFT)** | 1,850ms | **<800ms (FastAPI SSE)** | Sub-second real-time streaming response |
 | **Application Processing Time** | 15 mins / job | **2.2 mins / job** | **85% reduction** in manual workflow latency |
 | **Anti-Bot Evasion Rate** | 25% Flagged (Raw Selenium) | **0 Flags (Playwright Stealth)** | **100% success rate** with Gaussian typing jitter |
-| **Hallucination Mitigation** | 18% Drift | **<3% Drift (Grounded Citations)** | Exact timestamp citations `[mm:ss]` bound to video |
+| **Hallucination Mitigation** | 18% Drift | **<3% Drift (Grounded Citations)** | Exact timestamp citations; zero hallucinations |
 
 ---
 
-## 🛠️ Technical Stack Matrix
+## 🛠️ Production Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="20%"><b>Generative AI & LLMs</b></td>
-    <td>LangChain, LangGraph, Context Engineering, Prompt Engineering, Google Gemini 2.5 Flash, Claude API, OpenAI API, Function Calling</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Vector Search & DBs</b></td>
-    <td>Qdrant (HNSW Indexing), ChromaDB, FAISS, BAAI Cross-Encoder Rerankers, Dense + Sparse Hybrid Search</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Agentic Automation</b></td>
-    <td>Playwright Stealth, Browser CDP Fingerprint Masking, Gaussian Keystroke Jitter, Telegram Bot API (HITL Webhooks), Supabase RLS</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Evals & LLMOps</b></td>
-    <td>Ragas, DeepEval, RAG Triad Benchmarking (Precision, Faithfulness, Relevance), NeMo Guardrails, Regression Eval Suites</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Inference & Serving</b></td>
-    <td>FastAPI (Async SSE Streaming), 4-bit Quantization (AWQ/GGUF), Ollama, Time-To-First-Token (TTFT) Tuning</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend & Cloud</b></td>
-    <td>Python 3.12, PostgreSQL (Supabase RLS), Docker Microservices, Streamlit Cloud, Vercel Edge, Git CI/CD, Linux</td>
-  </tr>
-</table>
+<div align="center">
+
+| Layer | Core Technologies |
+| :--- | :--- |
+| **Languages & Core** | `Python 3.12`, `TypeScript`, `C++`, `AsyncIO`, `Pydantic v2` |
+| **RAG & Vector Retrieval** | `Qdrant (HNSW)`, `LangChain`, `BAAI Cross-Encoder`, `Sentence-Transformers` |
+| **LLMs & Multi-Modal** | `Gemini 2.5 Flash`, `DeepSeek V3`, `Ollama / Llama-3`, `HuggingFace Hub` |
+| **Stealth Agents & Scraping** | `Playwright Stealth`, `CDP Instrumentation`, `Telegram Bot API (HITL)`, `BeautifulSoup` |
+| **Serving & Infrastructure** | `FastAPI (SSE 60 FPS)`, `Docker`, `Supabase (PostgreSQL + RLS)`, `Streamlit Cloud` |
+| **Evals & Guardrails** | `Ragas`, `DeepEval`, `NeMo Guardrails`, `Prompt Injection Filters` |
+
+</div>
 
 ---
 
@@ -120,15 +106,15 @@ Specialized **AI & Agentic Systems Engineer** focused on bridging the gap betwee
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/Sachin-dev001/ai-portfolio">ai-portfolio</a></h3>
-      <p><b>Neo-Brutalist Liquid-Glass 3D Portfolio</b></p>
+      <p><b>Stationery & Ink Neo-Brutalist AI Systems Portfolio</b></p>
       <ul>
-        <li>Reverse-engineered from award-winning <code>awmedia.marketing</code> design system.</li>
-        <li>Features 3D architecture console, live SSE log streamer, interactive evals lab, and 100% mobile viewport responsiveness.</li>
+        <li>Reverse-engineered from Quorvel with persistent sticky wavy navbar and 3D draggable sketchbook agent topology globe.</li>
+        <li>Features live architecture console, streaming SSE telemetry simulator, quantitative evals lab, and 100% responsive mobile paper drawer.</li>
       </ul>
       <p>
-        <a href="https://agile-mauve-8p7v0p2.tmp.now/"><img src="https://img.shields.io/badge/Live_Site-Vercel_Edge-black?style=flat-square&logo=vercel" /></a>
+        <a href="https://sachin-dev001.github.io/ai-portfolio/"><img src="https://img.shields.io/badge/Live_Site-GitHub_Pages-24292e?style=flat-square&logo=github" /></a>
         <img src="https://img.shields.io/badge/React_19-Vite_8-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind_v4-Liquid_Glass-emerald?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-Stationery_Ink-emerald?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -198,5 +184,5 @@ Specialized **AI & Agentic Systems Engineer** focused on bridging the gap betwee
 
 <div align="center">
   <b>Let's build production AI systems that don't break.</b><br>
-  <a href="mailto:Sachin.Sharma.37919@gmail.com">Sachin.Sharma.37919@gmail.com</a> &bull; <a href="https://linkedin.com/in/sachin-sharma-659ab53b6">LinkedIn</a> &bull; <a href="https://agile-mauve-8p7v0p2.tmp.now/">Portfolio</a>
+  <a href="mailto:Sachin.Sharma.37919@gmail.com">Sachin.Sharma.37919@gmail.com</a> &bull; <a href="https://linkedin.com/in/sachin-sharma-659ab53b6">LinkedIn</a> &bull; <a href="https://sachin-dev001.github.io/ai-portfolio/">Portfolio</a>
 </div>
